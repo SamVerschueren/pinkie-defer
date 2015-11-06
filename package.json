@@ -1,6 +1,6 @@
 {
   "name": "pinkie-defer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Defer an ES2015 Promise implementation",
   "license": "MIT",
   "repository": "SamVerschueren/pinkie-defer",
