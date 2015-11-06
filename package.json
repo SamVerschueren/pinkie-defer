@@ -1,0 +1,40 @@
+{
+  "name": "pinkie-defer",
+  "version": "0.0.0",
+  "description": "Defer an ES2015 Promise implementation",
+  "license": "MIT",
+  "repository": "SamVerschueren/pinkie-defer",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "pinkie",
+    "promise",
+    "defer",
+    "deferred",
+    "promises",
+    "pending"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "pinkie-promise": "^1.0.0",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
